@@ -1,14 +1,15 @@
-# Assignment 1
+# Assignment-1
 
-Follow the directory structure for your submission repository
-```
-├── src/
-│   ├── main.ipynb
-├── images/
-└── README.md
-```
-
-- `src/` will contain the Jupyter notebook, with code, outputs, plots, and written observations wherever required.
-- `images/` will contain images used for the questions.
-- Make sure you run your Jupyter notebook before submitting, to save all outputs.
-
+### Instructions
+- Follow the directory structure as shown below: 
+  ```
+  ├── main.ipynb
+  ├── src_img
+  ├── out_img
+  └── README.md
+  ```
+- `src` will contain the Jupyter notebooks used for the assignment.
+- `src_img` folder will contain images used for the questions.
+- `out_img` folder should contain output images of the question.
+- Follow this directory structure for this assignment.
+- **Make sure you run your Jupyter notebook before committing, to save all outputs.**
