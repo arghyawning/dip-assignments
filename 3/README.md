@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NMqBT688)
-# DIP M'24 Assignment 2
+# Assignment 3
+
 ### Submission Format
 
 Follow the directory structure for your submission repository
